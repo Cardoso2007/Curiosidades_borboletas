@@ -57,11 +57,11 @@ footer {
 }
 
 img {
-    width: 500px;
-    height: 350px;
+    width: 300px;
+    height: 150px;
     border: 3px solid #00f3ff;
 }
 
 .container {
-    padding: 20px 400px;
+    padding: 10px 200px;
 }
